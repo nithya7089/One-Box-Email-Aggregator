@@ -24,7 +24,7 @@ An end-to-end system to sync multiple IMAP accounts in real-time, index emails i
 ## Quick Start
 
 1. Clone repo  
-git clone git@github.com:yourusername/onebox-email-aggregator.git
+git clone https://github.com/nithya7089/One-Box-Email-Aggregato.git
 cd onebox-email-aggregator
 
 
@@ -64,3 +64,4 @@ npm run dev
 - `/packages/backend` — Node.js/TypeScript services  
 - `/packages/frontend` — React + Vite UI  
 - `/infra/` — Optional custom infra configs  
+
